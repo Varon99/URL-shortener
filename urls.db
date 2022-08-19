@@ -1,0 +1,5 @@
+id_ INTEGER NOT NULL,
+long VARCHAR,
+short VARCHAR(3),
+PRIMARY KEY (id_)
+)
